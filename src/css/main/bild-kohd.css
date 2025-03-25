@@ -195,7 +195,7 @@
   height: 31px;
 }
 
-@media (mix-width: 768px) {
+@media (mix-width: 769px) {
   .bild-kohd {
     margin-top: 54px;
     padding: 10px 29px;
@@ -253,8 +253,7 @@
   }
 }
 
-@media (min-width: 769px) {
-}
-
 @media (min-width: 1440px) {
+}
+@media (min-width: 2160px) {
 }

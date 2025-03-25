@@ -135,7 +135,7 @@
   margin: auto 0;
   gap: 7px;
 }
-@media (min-width: 361px) {
+@media (min-width: 769px) {
   .nav-desktop {
     display: none;
   }
@@ -249,7 +249,7 @@
   }
 }
 
-@media (min-width: 769px) {
+@media (min-width: 1440px) {
   .nav-desktop {
     display: flex;
     display: flex !important;
@@ -348,7 +348,7 @@
   }
 }
 
-@media (min-width: 1440px) {
+@media (min-width: 2160px) {
   .nav-desktop {
     display: flex;
     display: flex !important;

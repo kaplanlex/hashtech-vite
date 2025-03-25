@@ -42,7 +42,7 @@
   width: 100%;
   height: auto;
 }
-@media (min-width: 361px) {
+@media (min-width: 769px) {
   .we-build {
     height: 827px;
     padding-top: 281px;
@@ -61,7 +61,7 @@
     font-size: 16px;
   }
 }
-@media (min-width: 769px) {
+@media (min-width: 1440px) {
   .we-build {
     height: 526px;
     padding-top: 135px;
@@ -78,7 +78,7 @@
     max-width: 618px;
   }
 }
-@media (min-width: 1440px) {
+@media (min-width: 2160px) {
   .we-build {
     height: 550px;
     padding-top: 135px;
