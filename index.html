@@ -49,34 +49,20 @@
   </style>
 
   <body class="container">
-    <header id="header"></header>
+    <header>
+      <load src="./src/partials/main/header.html" />
+    </header>
+
     <main>
-      <div id="we-build"></div>
-      <div id="bild-kohd"></div>
-      <div id="design-lab"></div>
-      <div id="cases"></div>
-      <div id="partner"></div>
+      <load src="./src/partials/main/we-build.html" />
+      <load src="./src/partials/main/bild-kohd.html" />
+      <load src="./src/partials/main/design-lab.html" />
+      <load src="./src/partials/main/cases.html" />
+      <load src="./src/partials/main/partner.html" />
     </main>
-    <footer id="footer"></footer>
+
+    <load src="./src/partials/main/footer.html" />
 
     <script type="module" src="./src/main.js"></script>
-    <script>
-      async function loadHTML(id, url) {
-        const response = await fetch(url);
-        if (response.ok) {
-          document.getElementById(id).innerHTML = await response.text();
-        } else {
-          console.error(`error ${url}: ${response.status}`);
-        }
-      }
-
-      loadHTML('header', './src/partials/main/header.html');
-      loadHTML('we-build', './src/partials/main/we-build.html');
-      loadHTML('bild-kohd', './src/partials/main/bild-kohd.html');
-      loadHTML('design-lab', './src/partials/main/design-lab.html');
-      loadHTML('cases', './src/partials/main/cases.html');
-      loadHTML('partner', './src/partials/main/partner.html');
-      loadHTML('footer', './src/partials/main/footer.html');
-    </script>
   </body>
 </html>
