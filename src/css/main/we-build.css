@@ -1,0 +1,98 @@
+.we-build {
+  width: 100%;
+  height: 470px;
+  padding-top: 112px;
+  padding-left: 44px;
+  padding-right: 44px;
+  background-color: #080808;
+  border: none;
+}
+
+.content-we-build {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.text-we-build {
+  color: rgba(242, 239, 230, 0.39);
+  font-family: 'Roboto Mono';
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-bottom: 17.92px;
+}
+.logo-we-build {
+  max-width: 100%;
+  height: auto;
+  flex-shrink: 0;
+  margin-bottom: 26.2px;
+}
+.text-description-webild {
+  color: #656565;
+  text-align: center;
+  font-family: 'Roboto Mono';
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.picture-we-bild {
+  width: 100%;
+  height: auto;
+}
+@media (min-width: 361px) {
+  .we-build {
+    height: 827px;
+    padding-top: 281px;
+    padding-left: 66.5px;
+    padding-right: 66.5px;
+  }
+
+  .text-we-build {
+    font-size: 30px;
+    margin-bottom: 26px;
+  }
+  .logo-we-build {
+    margin-bottom: 58px;
+  }
+  .text-description-webild {
+    font-size: 16px;
+  }
+}
+@media (min-width: 769px) {
+  .we-build {
+    height: 526px;
+    padding-top: 135px;
+  }
+  .text-we-build {
+    font-size: 39px;
+    margin-bottom: 40px;
+  }
+  .logo-we-build {
+    margin-bottom: 45px;
+  }
+  .text-description-webild {
+    font-size: 16px;
+    max-width: 618px;
+  }
+}
+@media (min-width: 1440px) {
+  .we-build {
+    height: 550px;
+    padding-top: 135px;
+  }
+  .text-we-build {
+    font-size: 39px;
+    margin-bottom: 23.87px;
+  }
+  .logo-we-build {
+    width: 629.807px;
+    height: 118.927px;
+    margin-bottom: 23.87px;
+  }
+  .text-description-webild {
+    font-size: 16px;
+  }
+}

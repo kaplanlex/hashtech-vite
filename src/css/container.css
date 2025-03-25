@@ -1,0 +1,28 @@
+.container {
+  min-width: 320px;
+  max-width: 100%;
+  margin: 0 auto;
+  background-color: #eeebe2;
+}
+
+body {
+  margin: 0;
+}
+
+/* @media only screen and (min-width: 375px) {
+  .container {
+    max-width: 375px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .container {
+    max-width: 768px;
+  }
+}
+
+@media only screen and (min-width: 1280px) {
+  .container {
+    max-width: 1280px;
+  }
+} */
