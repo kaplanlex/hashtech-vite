@@ -1,0 +1,203 @@
+<svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1"
+    xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <symbol id="icon-mobile-menu" viewBox="0 0 32 32">
+            <path fill="black" stroke="black" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4"
+                stroke-width="2"
+                d="M16.001 9.101c0.323 0 0.633-0.128 0.861-0.357s0.357-0.538 0.357-0.861c0-0.323-0.128-0.633-0.357-0.861s-0.538-0.357-0.861-0.357c-0.323 0-0.633 0.128-0.861 0.357s-0.357 0.538-0.357 0.861c0 0.323 0.128 0.633 0.357 0.861s0.538 0.357 0.861 0.357zM24.119 9.101c0.16 0 0.318-0.031 0.466-0.093s0.282-0.151 0.395-0.264c0.113-0.113 0.203-0.247 0.264-0.395s0.093-0.306 0.093-0.466c0-0.16-0.031-0.318-0.093-0.466s-0.151-0.282-0.264-0.395c-0.113-0.113-0.247-0.203-0.395-0.264s-0.306-0.093-0.466-0.093c-0.323 0-0.633 0.128-0.861 0.357s-0.357 0.538-0.357 0.861c0 0.323 0.128 0.633 0.357 0.861s0.538 0.357 0.861 0.357zM7.884 9.101c0.16 0 0.318-0.031 0.466-0.093s0.282-0.151 0.395-0.264c0.113-0.113 0.203-0.247 0.264-0.395s0.093-0.306 0.093-0.466c0-0.16-0.031-0.318-0.093-0.466s-0.151-0.282-0.264-0.395c-0.113-0.113-0.247-0.203-0.395-0.264s-0.306-0.093-0.466-0.093c-0.323 0-0.633 0.128-0.861 0.357s-0.357 0.538-0.357 0.861c0 0.323 0.128 0.633 0.357 0.861s0.538 0.357 0.861 0.357zM16.001 17.217c0.323 0 0.633-0.128 0.861-0.357s0.357-0.538 0.357-0.861c0-0.323-0.128-0.633-0.357-0.861s-0.538-0.357-0.861-0.357c-0.323 0-0.633 0.128-0.861 0.357s-0.357 0.538-0.357 0.861c0 0.323 0.128 0.633 0.357 0.861s0.538 0.357 0.861 0.357zM24.119 17.217c0.323 0 0.633-0.128 0.861-0.357s0.357-0.538 0.357-0.861c0-0.323-0.128-0.633-0.357-0.861s-0.538-0.357-0.861-0.357c-0.323 0-0.633 0.128-0.861 0.357s-0.357 0.538-0.357 0.861c0 0.323 0.128 0.633 0.357 0.861s0.538 0.357 0.861 0.357zM7.884 17.217c0.323 0 0.633-0.128 0.861-0.357s0.357-0.538 0.357-0.861c0-0.323-0.128-0.633-0.357-0.861s-0.538-0.357-0.861-0.357c-0.323 0-0.633 0.128-0.861 0.357s-0.357 0.538-0.357 0.861c0 0.323 0.128 0.633 0.357 0.861s0.538 0.357 0.861 0.357zM16.001 25.333c0.323 0 0.633-0.128 0.861-0.357s0.357-0.538 0.357-0.861c0-0.323-0.128-0.633-0.357-0.861s-0.538-0.357-0.861-0.357c-0.323 0-0.633 0.128-0.861 0.357s-0.357 0.538-0.357 0.861c0 0.323 0.128 0.633 0.357 0.861s0.538 0.357 0.861 0.357zM24.119 25.333c0.323 0 0.633-0.128 0.861-0.357s0.357-0.538 0.357-0.861c0-0.323-0.128-0.633-0.357-0.861s-0.538-0.357-0.861-0.357c-0.323 0-0.633 0.128-0.861 0.357s-0.357 0.538-0.357 0.861c0 0.323 0.128 0.633 0.357 0.861s0.538 0.357 0.861 0.357zM7.884 25.333c0.323 0 0.633-0.128 0.861-0.357s0.357-0.538 0.357-0.861c0-0.323-0.128-0.633-0.357-0.861s-0.538-0.357-0.861-0.357c-0.323 0-0.633 0.128-0.861 0.357s-0.357 0.538-0.357 0.861c0 0.323 0.128 0.633 0.357 0.861s0.538 0.357 0.861 0.357z">
+            </path>
+        </symbol>
+        <symbol id="icon-careers" viewBox="0 0 30 32">
+            <path fill="none" stroke="#7a7a7a" style="stroke: var(--color1, #7a7a7a)" stroke-linejoin="round"
+                stroke-linecap="round" stroke-miterlimit="4" stroke-width="1.8050"
+                d="M14.563 26.303h-2.775c-4.314 0-6.47 0-7.811-1.366s-1.341-3.564-1.341-7.96c0-4.396 0-6.594 1.341-7.96s3.497-1.366 7.811-1.366h4.576c4.314 0 6.472 0 7.812 1.366 1.031 1.050 1.268 3.682 1.324 6.34">
+            </path>
+            <path fill="none" stroke="#7a7a7a" style="stroke: var(--color1, #7a7a7a)" stroke-linejoin="round"
+                stroke-linecap="round" stroke-miterlimit="4" stroke-width="1.9"
+                d="M22.95 20.548l-1.659 3.081-1.925-1.269M19.486 7.651l-0.12-0.373c-0.594-1.853-0.893-2.78-1.602-3.309-0.71-0.529-1.651-0.529-3.534-0.529h-0.318c-1.883 0-2.825 0-3.534 0.529-0.71 0.529-1.007 1.456-1.603 3.309l-0.119 0.373M15.876 22.091c0 0.711 0.14 1.415 0.412 2.072s0.671 1.254 1.174 1.757c0.503 0.503 1.1 0.902 1.757 1.174s1.361 0.412 2.072 0.412c0.711 0 1.415-0.14 2.072-0.412s1.254-0.671 1.757-1.174c0.503-0.503 0.902-1.1 1.174-1.757s0.412-1.361 0.412-2.072c0-1.436-0.571-2.813-1.586-3.829s-2.393-1.586-3.829-1.586-2.813 0.571-3.829 1.586c-1.016 1.016-1.586 2.393-1.586 3.829z">
+            </path>
+        </symbol>
+        <symbol id="icon-cases" viewBox="0 0 30 32">
+            <path fill="none" stroke="#7a7a7a" style="stroke: var(--color1, #7a7a7a)" stroke-linejoin="miter"
+                stroke-linecap="butt" stroke-miterlimit="4" stroke-width="1.9"
+                d="M3.8 13.467v11.4c0 1.399 1.134 2.533 2.533 2.533h17.733c1.399 0 2.533-1.134 2.533-2.533v-11.4M3.8 13.467l2.008-7.029c0.311-1.088 1.305-1.837 2.436-1.837h6.956M3.8 13.467h11.4M26.6 13.467l-2.008-7.029c-0.311-1.088-1.305-1.837-2.436-1.837h-6.956M26.6 13.467h-11.4M15.2 4.6v8.867">
+            </path>
+            <path fill="none" stroke="#7a7a7a" style="stroke: var(--color1, #7a7a7a)" stroke-linejoin="miter"
+                stroke-linecap="round" stroke-miterlimit="4" stroke-width="1.9" d="M6.969 22.967h8.233"></path>
+        </symbol>
+        <symbol id="icon-about" viewBox="0 0 30 32">
+            <path fill="none" stroke="#7a7a7a" style="stroke: var(--color1, #7a7a7a)" stroke-linejoin="miter"
+                stroke-linecap="butt" stroke-miterlimit="4" stroke-width="1.9"
+                d="M6.333 4.6h17.733c1.399 0 2.533 1.134 2.533 2.533v17.733c0 1.399-1.134 2.533-2.533 2.533h-17.733c-1.399 0-2.533-1.134-2.533-2.533v-17.733c0-1.399 1.134-2.533 2.533-2.533z">
+            </path>
+            <path fill="#7a7a7a" style="fill: var(--color1, #7a7a7a)"
+                d="M17.098 8.403c-0.378 0-0.74 0.15-1.007 0.417s-0.417 0.63-0.417 1.007 0.15 0.74 0.417 1.007c0.267 0.267 0.63 0.417 1.007 0.417s0.74-0.15 1.007-0.417 0.417-0.63 0.417-1.007c0-0.378-0.15-0.74-0.417-1.007s-0.629-0.417-1.007-0.417zM16.756 12.933c-1.13 0.095-4.217 2.555-4.217 2.555-0.19 0.142-0.133 0.133 0.019 0.399 0.152 0.256 0.133 0.275 0.313 0.152 0.19-0.123 0.503-0.323 1.026-0.646 2.013-1.292 0.323 1.69-0.541 6.715-0.342 2.488 1.899 1.206 2.479 0.826 0.57-0.37 2.099-1.424 2.251-1.529 0.209-0.143 0.057-0.256-0.104-0.494-0.114-0.161-0.228-0.048-0.228-0.048-0.617 0.408-1.748 1.263-1.899 0.722-0.18-0.541 0.978-4.255 1.615-6.81 0.104-0.608 0.389-1.937-0.712-1.842z">
+            </path>
+        </symbol>
+        <symbol id="icon-main" xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19"
+            fill="none">
+            <svg xmlns="http://www.w3.org/2000/svg" width="19" height="20" viewBox="0 0 19 20" fill="none">
+                <path
+                    d="M7.91667 17.1247H3.95833C3.08388 17.1247 2.375 16.4158 2.375 15.5413V10.2348C2.375 9.82964 2.53029 9.43993 2.80891 9.14583L8.35058 3.29629C8.97509 2.63708 10.0249 2.63708 10.6494 3.29629L16.1911 9.14583C16.4697 9.43993 16.625 9.82964 16.625 10.2348V15.5413C16.625 16.4158 15.9161 17.1247 15.0417 17.1247H11.0833M7.91667 17.1247V12.7705C7.91667 12.5519 8.09389 12.3747 8.3125 12.3747H10.6875C10.9061 12.3747 11.0833 12.5519 11.0833 12.7705V17.1247M7.91667 17.1247H11.0833"
+                    stroke="#1F1F22" stroke-width="1.1875" />
+            </svg>
+        </symbol>
+        <symbol id="icon-cursore" viewBox="0 0 32 32">
+<path fill="#000" style="fill: var(--color1, #000)" d="M10.564 4.659h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M10.564 5.639h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M11.545 5.639h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M10.564 6.619h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#a3a3a3" style="fill: var(--color2, #a3a3a3)" d="M11.545 6.619h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M12.522 6.619h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M10.564 7.596h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M11.545 7.596h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#a3a3a3" style="fill: var(--color2, #a3a3a3)" d="M12.522 7.596h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M13.503 7.596h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M10.564 8.576h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M11.545 8.576h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M12.522 8.576h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#a3a3a3" style="fill: var(--color2, #a3a3a3)" d="M13.503 8.576h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M14.482 8.576h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M10.564 9.555h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M11.545 9.555h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M12.522 9.555h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M13.503 9.555h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#a3a3a3" style="fill: var(--color2, #a3a3a3)" d="M14.482 9.555h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M15.46 9.555h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M10.564 10.534h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M11.545 10.534h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M12.522 10.534h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M13.503 10.534h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M14.482 10.534h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#a3a3a3" style="fill: var(--color2, #a3a3a3)" d="M15.46 10.534h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M16.439 10.534h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M10.564 11.514h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M11.545 11.514h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M12.522 11.514h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M13.503 11.514h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M14.482 11.514h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M15.46 11.514h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#a3a3a3" style="fill: var(--color2, #a3a3a3)" d="M16.439 11.514h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M17.418 11.514h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M10.564 12.492h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M11.545 12.492h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M12.522 12.492h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M13.503 12.492h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M14.482 12.492h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M15.46 12.492h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M16.439 12.492h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#a3a3a3" style="fill: var(--color2, #a3a3a3)" d="M17.418 12.492h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M18.397 12.492h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M10.564 13.472h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M11.545 13.472h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M12.522 13.472h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M13.503 13.472h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M14.482 13.472h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M15.46 13.472h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M16.439 13.472h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M17.418 13.472h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#a3a3a3" style="fill: var(--color2, #a3a3a3)" d="M18.397 13.472h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M19.378 13.472h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M10.564 14.452h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M11.545 14.452h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M12.522 14.452h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M13.503 14.452h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M14.482 14.452h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M15.46 14.452h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M16.439 14.452h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M17.418 14.452h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M18.397 14.452h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#a3a3a3" style="fill: var(--color2, #a3a3a3)" d="M19.378 14.452h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M20.357 14.452h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M10.564 15.43h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M11.545 15.43h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M12.522 15.43h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M13.503 15.43h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M14.482 15.43h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M15.46 15.43h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M16.439 15.43h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M17.418 15.43h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M18.397 15.43h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M19.378 15.43h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#a3a3a3" style="fill: var(--color2, #a3a3a3)" d="M20.357 15.43h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M21.335 15.43h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M10.564 16.409h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M11.545 16.409h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M12.522 16.409h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M13.503 16.409h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M14.482 16.409h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M15.46 16.409h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M16.439 16.409h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M17.418 16.409h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M18.397 16.409h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M19.378 16.409h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M20.357 16.409h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#a3a3a3" style="fill: var(--color2, #a3a3a3)" d="M21.335 16.409h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M22.314 16.409h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M10.564 17.388h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M11.545 17.388h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M12.522 17.388h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M13.503 17.388h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M14.482 17.388h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M15.46 17.388h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M16.439 17.388h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M17.418 17.388h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M18.397 17.388h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M19.378 17.388h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M20.357 17.388h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M21.335 17.388h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M22.314 17.388h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M10.564 18.368h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M11.545 18.368h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M12.522 18.368h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M13.503 18.368h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M14.482 18.368h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M15.46 18.368h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M16.439 18.368h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M17.418 18.368h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M10.564 19.347h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M11.545 19.347h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M12.522 19.347h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#a3a3a3" style="fill: var(--color2, #a3a3a3)" d="M13.503 19.347h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M14.482 19.347h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#a3a3a3" style="fill: var(--color2, #a3a3a3)" d="M15.46 19.347h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M16.439 19.347h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M17.418 19.347h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M10.564 20.325h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M11.545 20.325h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#a3a3a3" style="fill: var(--color2, #a3a3a3)" d="M12.522 20.325h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M13.503 20.325h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M15.46 20.325h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M16.439 20.325h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M17.418 20.325h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M18.397 20.325h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M10.564 21.305h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#a3a3a3" style="fill: var(--color2, #a3a3a3)" d="M11.545 21.305h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M12.522 21.305h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M15.46 21.305h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#a3a3a3" style="fill: var(--color2, #a3a3a3)" d="M16.439 21.305h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M17.418 21.305h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M18.397 21.305h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M10.564 22.285h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M11.545 22.285h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M16.439 22.285h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M17.418 22.285h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M18.397 22.285h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M19.378 22.285h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M16.439 23.263h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#a3a3a3" style="fill: var(--color2, #a3a3a3)" d="M17.418 23.263h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M18.397 23.263h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M19.378 23.263h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M17.418 24.243h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M18.397 24.243h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M19.378 24.243h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M20.357 24.243h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M17.418 25.221h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#a3a3a3" style="fill: var(--color2, #a3a3a3)" d="M18.397 25.221h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#f2f2f2" style="fill: var(--color3, #f2f2f2)" d="M19.378 25.221h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M20.357 25.221h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M18.397 26.201h-0.98v0.98h0.98v-0.98z"></path>
+<path fill="#000" style="fill: var(--color1, #000)" d="M19.378 26.201h-0.98v0.98h0.98v-0.98z"></path>
+</symbol>
+    </defs>
+</svg>и
