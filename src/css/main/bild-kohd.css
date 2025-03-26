@@ -195,7 +195,7 @@
   height: 31px;
 }
 
-@media (mix-width: 769px) {
+@media (min-width: 769px) {
   .bild-kohd {
     margin-top: 54px;
     padding: 10px 29px;
@@ -213,11 +213,11 @@
 
   .box-stack {
     background-image: url('/img/bild-kohd/build-kohd-stack-tablet-bg.png');
-    background-size: 100% 200px;
+    background-size: 100% 173px;
     background-repeat: no-repeat;
     background-position: center;
     width: 100%;
-    min-height: 200px;
+    min-height: 173px;
     padding-right: 25px;
     padding-left: 31px;
     padding-top: 28px;
@@ -231,6 +231,7 @@
     align-items: center;
     justify-content: space-between;
     flex-wrap: nowrap;
+    gap: 39px;
   }
   .stack-list {
     display: inline;
@@ -251,9 +252,423 @@
     height: 500px;
     position: relative;
   }
+  /*-----*/
+  .constructor-box-left {
+    position: absolute;
+    left: 36px;
+    top: 36px;
+    width: 208px;
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+  }
+  .constructor-text-left {
+    width: 208px;
+
+    font-size: 16px;
+  }
+  /*------*/
+  .constructor-box-down-left {
+    position: absolute;
+    left: 64px;
+    bottom: 47px;
+    width: 236px;
+    display: flex;
+
+    flex-direction: column;
+  }
+  .constructor-text-down-left {
+    font-size: 16px;
+  }
+  /*------*/
+  .constructor-box-top {
+    position: absolute;
+    top: 27.7px;
+    left: 50%;
+    display: flex;
+    gap: 7.93px;
+  }
+  .constructor-text-top {
+    width: 219px;
+
+    font-size: 16px;
+  }
+  /*------*/
+  .constructor-box-right {
+    position: absolute;
+    /* right: 74px; */
+    top: 50%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    width: 230px;
+    text-align: start;
+    gap: 24px;
+  }
+  .constructor-text-right {
+    font-size: 16px;
+    align-self: flex-end;
+    width: 150px;
+  }
+  /*--------*/
+  .constructor-box-down-right {
+    position: absolute;
+    bottom: 65px;
+    right: 54px;
+    display: flex;
+    flex-direction: column;
+    width: 256px;
+  }
+  .constructor-text-down-right {
+    width: 181px;
+
+    font-size: 16px;
+
+    align-self: flex-end;
+  }
+  .constructor-icon-cursore {
+    width: 66px;
+    height: 66px;
+  }
 }
 
 @media (min-width: 1440px) {
+  .bild-kohd {
+    margin-top: 63.5px;
+    padding: 36.5px 60px;
+  }
+  .general-title-bild-kohd {
+    color: #252525;
+    font-family: 'Roboto Mono';
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 108px;
+    margin-bottom: 32px;
+  }
+  .box-stack {
+    background-image: url('/img/bild-kohd/build-kohd-stack-min-desktop-bg.png');
+    background-size: 100% 190px;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    min-height: 190px;
+    padding-right: 52px;
+    padding-left: 48px;
+    padding-top: 26.5px;
+
+    padding-bottom: 27px;
+
+    display: inline;
+  }
+  .title-stack {
+    font-size: 28px;
+
+    margin-bottom: 7px;
+  }
+  .text-stack {
+    font-size: 16px;
+
+    line-height: 23px;
+  }
+  .title-text-stack {
+    font-size: 16px;
+
+    line-height: 23px; /* 172.727% */
+  }
+
+  .text-description-stack {
+    margin-top: 7.5px;
+
+    font-size: 16px;
+    width: 440px;
+    line-height: 25.6px; /* 166.667% */
+  }
+  .box-stack-information {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+  }
+  .stack-list {
+    display: inline;
+  }
+
+  /*---------*/
+
+  .constructor {
+    width: 100%;
+    height: 553px;
+    position: relative;
+  }
+  /*-------*/
+  .constructor-box-left {
+    position: absolute;
+    left: 68px;
+    top: 68px;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    gap: 0;
+  }
+  .constructor-text-left {
+    width: 200px;
+
+    font-size: 15px;
+    margin-top: 67.7px;
+  }
+
+  /*-------*/
+  .constructor-box-down-left {
+    position: absolute;
+    left: 400px;
+    bottom: 50px;
+    width: auto;
+    display: flex;
+
+    flex-direction: column;
+  }
+  .constructor-text-down-left {
+    font-size: 15px;
+  }
+  /*-------*/
+  .constructor-box-top {
+    position: absolute;
+    top: 56.36px;
+    left: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 71px;
+  }
+
+  .constructor-box-top > :first-child {
+    order: 2;
+  }
+
+  .constructor-box-top > :last-child {
+    order: 1;
+  }
+
+  .constructor-text-top {
+    width: 200px;
+
+    font-size: 15px;
+  }
+  /*------*/
+  .constructor-box-right {
+    position: absolute;
+    /* right: 74px; */
+    top: 50%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    text-align: start;
+    gap: 0;
+  }
+  .constructor-text-right {
+    font-size: 15px;
+    align-self: flex-end;
+    width: 150px;
+  }
+  .constructor-img-right {
+    margin-left: 80px;
+  }
+  /*--------*/
+  .constructor-box-down-right {
+    position: absolute;
+    bottom: 65px;
+    right: 238px;
+    display: flex;
+    flex-direction: row;
+    width: auto;
+    gap: 46.2px;
+    align-items: center;
+  }
+  .constructor-text-down-right {
+    width: 200px;
+
+    font-size: 15px;
+
+    align-self: flex-start;
+  }
+  .constructor-icon-cursore {
+    width: 61px;
+    height: 61px;
+    position: absolute;
+    top: 50%;
+    left: 62%;
+    transform: translate(-50%, -50%);
+  }
 }
 @media (min-width: 2160px) {
+  .bild-kohd {
+    margin-top: 9px;
+
+    padding-top: 38px;
+    padding-right: 360px;
+    padding-left: 360px;
+    padding-bottom: 0;
+  }
+  .general-title-bild-kohd {
+    color: #252525;
+    font-family: 'Roboto Mono';
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 108px;
+    margin-bottom: 32px;
+  }
+  .box-stack {
+    background-image: url('/img/bild-kohd/build-kohd-stack-big-desktop-bg.png');
+    background-size: 100% 189px;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    min-height: 189px;
+    padding-right: 88px;
+    padding-left: 48px;
+    padding-top: 26px;
+    padding-bottom: 27px;
+    display: inline;
+  }
+  .title-stack {
+    font-size: 28px;
+
+    margin-bottom: 7px;
+  }
+  .text-stack {
+    font-size: 16px;
+
+    line-height: 23px;
+  }
+  .title-text-stack {
+    font-size: 16px;
+
+    line-height: 23px; /* 172.727% */
+  }
+
+  .text-description-stack {
+    margin-top: 7.5px;
+
+    font-size: 16px;
+    width: 440px;
+    line-height: 25.6px; /* 166.667% */
+  }
+  .box-stack-information {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+  }
+  .stack-list {
+    display: inline;
+  }
+  /*------------*/
+
+  .constructor {
+    width: 100%;
+    height: 588px;
+    position: relative;
+  }
+  /*------------*/
+  .constructor-box-left {
+    position: absolute;
+    left: 72px;
+    top: 75px;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    gap: 0;
+  }
+  .constructor-text-left {
+    width: 213.426px;
+
+    font-size: 16px;
+    margin-top: 60.7px;
+  }
+  /*-------*/
+  .constructor-box-down-left {
+    position: absolute;
+    left: 282px;
+    bottom: 53.4px;
+    width: auto;
+    display: flex;
+
+    flex-direction: column;
+  }
+  .constructor-text-down-left {
+    font-size: 16px;
+  }
+  /*-------*/
+  .constructor-box-top {
+    position: absolute;
+    top: 60px;
+    left: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 76.4px;
+  }
+
+  .constructor-box-top > :first-child {
+    order: 2;
+  }
+
+  .constructor-box-top > :last-child {
+    order: 1;
+  }
+
+  .constructor-text-top {
+    width: 213px;
+
+    font-size: 16px;
+  }
+  /*-------*/
+  .constructor-box-right {
+    position: absolute;
+    right: 3.57px;
+    top: 50%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    width: 440px;
+    text-align: start;
+    gap: 0;
+  }
+  .constructor-text-right {
+    font-size: 16px;
+    align-self: flex-end;
+    width: 170px;
+  }
+  .constructor-img-right {
+    margin-left: 80px;
+  }
+  /*--------*/
+  .constructor-box-down-right {
+    position: absolute;
+    bottom: 69.27px;
+    right: 288.57px;
+    display: flex;
+    flex-direction: row;
+    width: auto;
+    gap: 27.25px;
+    align-items: center;
+  }
+  .constructor-text-down-right {
+    width: 213px;
+
+    font-size: 16px;
+
+    align-self: flex-start;
+  }
+  .constructor-icon-cursore {
+    width: 64.8px;
+    height: 64.8px;
+    position: absolute;
+    top: 53%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+  }
 }
