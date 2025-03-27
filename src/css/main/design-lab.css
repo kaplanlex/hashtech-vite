@@ -1,0 +1,613 @@
+.design-lab {
+  margin-top: 67px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px 13px;
+}
+.general-title-design-lab {
+  color: #262626;
+  font-family: 'Roboto Flex';
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+.box-stack-design-lab {
+  background-image: url('/img/design-lab/build-kohd-stack-mobile-bg.png');
+  background-size: 100% 204px;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  min-height: 334px;
+  padding-right: 7px;
+  padding-left: 20px;
+  padding-top: 17px;
+  padding-bottom: 24px;
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  flex-direction: column;
+}
+.title-stack-design-lab {
+  color: #252525;
+  font-family: 'Roboto Mono';
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 11px;
+}
+/* .box-stack-information-design-lab {
+} */
+.stack-list-design-lab {
+  display: flex;
+  flex-direction: column;
+}
+
+.text-stack-design-lab {
+  color: #585858;
+  font-family: 'Roboto Mono';
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 19px;
+  letter-spacing: -0.32px;
+}
+.title-text-stack-design-lab {
+  color: #262626;
+  font-family: 'Roboto Mono';
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 19px; /* 172.727% */
+  letter-spacing: -0.32px;
+}
+.text-description-stack-design-lab {
+  margin-top: 11px;
+  color: #262626;
+  font-family: 'Roboto Mono';
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px; /* 166.667% */
+  letter-spacing: -0.32px;
+}
+
+/*--------*/
+.constructor-design-lab {
+  width: 100%;
+  height: 234px;
+  position: relative;
+  margin-top: 13px;
+}
+/*--------*/
+.constructor-box-left-design-lab {
+  position: absolute;
+  left: 23px;
+  top: 56px;
+  width: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 5.86px;
+}
+.constructor-text-left-design-lab {
+  width: 94px;
+  color: #262626;
+  font-family: 'Roboto Mono';
+  font-size: 9px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+/* .constructor-img-left-design-lab {
+} */
+
+/*--------*/
+.constructor-box-down-design-lab {
+  position: absolute;
+  left: 25%;
+  bottom: 7.07px;
+  width: auto;
+  display: flex;
+  gap: 15px;
+}
+.constructor-text-down-design-lab {
+  color: #262626;
+  font-family: 'Roboto Mono';
+  font-size: 9px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  width: 94px;
+  margin-top: 45px;
+}
+
+/*--------*/
+.constructor-box-top-design-lab {
+  position: absolute;
+  top: 6px;
+  left: 50%;
+  display: flex;
+  gap: 6px;
+}
+
+.constructor-text-top-design-lab {
+  margin-top: 6px;
+  width: 94px;
+  color: #262626;
+  font-family: 'Roboto Mono';
+  font-size: 9px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+/*--------*/
+.constructor-box-right-design-lab {
+  position: absolute;
+  right: 13.27px;
+  top: 85px;
+
+  display: flex;
+  flex-direction: column;
+
+  gap: 4px;
+}
+
+.constructor-text-right-design-lab {
+  width: 83px;
+  color: #262626;
+  font-family: 'Roboto Mono';
+  font-size: 9px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+/*--------*/
+.constructor-icon-cursore-design-lab {
+  display: none;
+}
+
+@media (min-width: 769px) {
+  .design-lab {
+    margin-top: 43px;
+    padding: 10px 29px;
+  }
+  .general-title-design-lab {
+    color: #252525;
+    font-family: 'Roboto Mono';
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 24px;
+  }
+  .box-stack-design-lab {
+    background-image: url('../../img/design-lab/build-kohd-stack-tablet-bg.png');
+    background-size: 100% 153px;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    min-height: 153px;
+    padding-right: 36px;
+    padding-left: 31px;
+    padding-top: 28px;
+    padding-bottom: 33px;
+    display: inline;
+  }
+  .box-stack-information-design-lab {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    gap: 39px;
+  }
+  .title-stack-design-lab {
+    color: #252525;
+    font-family: 'Roboto Mono';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+
+  .stack-list-design-lab {
+    display: inline;
+  }
+
+  .text-stack-design-lab {
+    max-width: 100%;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+
+  .text-description-stack-design-lab {
+    margin-top: 0;
+    width: 310px;
+  }
+
+  /*--------*/
+  .constructor-design-lab {
+    width: 100%;
+    height: 500px;
+    position: relative;
+    margin-top: 24px;
+  }
+  /*--------*/
+  .constructor-box-left-design-lab {
+    position: absolute;
+    left: 50px;
+    top: 119px;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+  }
+  .constructor-text-left-design-lab {
+    width: 144px;
+    font-size: 16px;
+  }
+
+  /*--------*/
+  .constructor-box-down-design-lab {
+    position: absolute;
+    left: 25%;
+    bottom: 15px;
+    width: auto;
+    display: flex;
+    gap: 32.5px;
+  }
+  .constructor-text-down-design-lab {
+    width: 181px;
+    font-size: 16px;
+    margin-top: 100px;
+  }
+
+  /*--------*/
+  .constructor-box-top-design-lab {
+    position: absolute;
+    top: 12.8px;
+    left: 50%;
+    display: flex;
+    gap: 14.9px;
+  }
+
+  .constructor-text-top-design-lab {
+    margin-top: 14.9px;
+    width: 175px;
+    font-size: 16px;
+  }
+
+  /*--------*/
+
+  .constructor-box-right-design-lab {
+    position: absolute;
+    right: 53px;
+    top: 181px;
+
+    display: flex;
+    flex-direction: column;
+
+    gap: 17.9px;
+  }
+
+  .constructor-text-right-design-lab {
+    width: 179px;
+
+    font-size: 16px;
+  }
+  /*--------*/
+  .constructor-icon-cursore-design-lab {
+    display: none;
+  }
+}
+
+@media (min-width: 1440px) {
+  .design-lab {
+    margin-top: 83px;
+    padding: 0 102px;
+  }
+
+  .general-title-design-lab {
+    color: #262626;
+    font-family: 'Roboto Mono';
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 108px; /* 225% */
+  }
+
+  .box-stack-design-lab {
+    background-image: url('../../img/design-lab/build-kohd-stack-min-desktop-bg.png');
+    background-size: 100% 190px;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    min-height: 190px;
+    padding-right: 52px;
+    padding-left: 48px;
+    padding-top: 26.5px;
+
+    padding-bottom: 42px;
+
+    display: inline;
+  }
+  .box-stack-information-design-lab {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+  }
+  .title-stack-design-lab {
+    font-size: 28px;
+    margin-bottom: 7px;
+  }
+
+  .stack-list-design-lab {
+    display: inline;
+  }
+
+  .text-stack-design-lab {
+    font-size: 16px;
+
+    line-height: 23px;
+  }
+
+  .title-text-stack-design-lab {
+    font-size: 16px;
+
+    line-height: 23px;
+  }
+
+  .text-description-stack-design-lab {
+    font-size: 16px;
+    width: 440px;
+    line-height: 25.6px;
+  }
+
+  /*--------*/
+  .constructor-design-lab {
+    height: 575px;
+    margin-top: 36px;
+  }
+  /*--------*/
+  .constructor-box-left-design-lab {
+    position: absolute;
+    left: 159.5px;
+    top: 181px;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    gap: 14.9px;
+  }
+  .constructor-text-left-design-lab {
+    width: 148.531px;
+    font-size: 15px;
+    margin-top: 25px;
+  }
+
+  /*--------*/
+  .constructor-box-down-design-lab {
+    position: absolute;
+    left: 25%;
+    bottom: 19px;
+    width: auto;
+    display: flex;
+    gap: 0;
+  }
+  .constructor-box-down-design-lab > :first-child {
+    order: 2;
+  }
+
+  .constructor-box-down-design-lab > :last-child {
+    order: 1;
+  }
+  .constructor-text-down-design-lab {
+    width: 162px;
+    font-size: 15px;
+    margin-top: 100px;
+  }
+
+  /*--------*/
+  .constructor-box-top-design-lab {
+    position: absolute;
+    top: 42px;
+    left: 50%;
+    display: flex;
+    gap: 35.7px;
+  }
+
+  .constructor-text-top-design-lab {
+    margin-top: 8px;
+    width: 148.531px;
+    font-size: 15px;
+  }
+  /*--------*/
+  .constructor-box-right-design-lab {
+    position: absolute;
+    right: 95px;
+    top: 287.9px;
+
+    display: flex;
+    flex-direction: row;
+
+    gap: 73px;
+  }
+  .constructor-box-right-design-lab > :first-child {
+    order: 2;
+  }
+
+  .constructor-box-right-design-lab > :last-child {
+    order: 1;
+  }
+  .constructor-text-right-design-lab {
+    width: 164px;
+    font-size: 15px;
+    margin-top: 4px;
+  }
+  /*--------*/
+  .constructor-icon-cursore-design-lab {
+    display: flex;
+    width: 59.494px;
+    height: 59.494px;
+    position: absolute;
+    top: 45%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+  }
+}
+
+@media (min-width: 2160px) {
+  .design-lab {
+    margin-top: 67px;
+    /* padding: 0 102px; */
+    padding-left: 360px;
+    padding-right: 360px;
+    padding-top: 38px;
+    padding-bottom: 0;
+  }
+
+  .general-title-design-lab {
+    font-size: 48px;
+
+    line-height: 108px; /* 225% */
+  }
+  .box-stack-design-lab {
+    background-image: url('../../img/design-lab/build-kohd-stack-big-desktop-bg.png');
+    background-size: 100% 189px;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    min-height: 189px;
+    padding-right: 126px;
+    padding-left: 48px;
+    padding-top: 26.5px;
+
+    padding-bottom: 42px;
+
+    display: inline;
+  }
+  .box-stack-information-design-lab {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+  }
+  .title-stack-design-lab {
+    font-size: 28px;
+    margin-bottom: 7px;
+  }
+  .stack-list-design-lab {
+    display: inline;
+  }
+  .text-stack-design-lab {
+    font-size: 16px;
+
+    line-height: 23px;
+  }
+  .title-text-stack-design-lab {
+    font-size: 16px;
+
+    line-height: 23px;
+  }
+  .text-description-stack-design-lab {
+    font-size: 16px;
+    width: 440px;
+    line-height: 25.6px;
+  }
+
+  /*--------*/
+  .constructor-design-lab {
+    height: 628px;
+    margin-top: 32px;
+  }
+  /*--------*/
+  .constructor-box-left-design-lab {
+    position: absolute;
+    left: 174px;
+    top: 198px;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    gap: 16.3px;
+  }
+
+  .constructor-text-left-design-lab {
+    width: 162px;
+    font-size: 16px;
+    margin-top: 27px;
+  }
+  /*--------*/
+  .constructor-box-down-design-lab {
+    position: absolute;
+    left: 25%;
+    bottom: 20.86px;
+    width: auto;
+    display: flex;
+    gap: 0;
+  }
+  .constructor-box-down-design-lab > :first-child {
+    order: 2;
+  }
+
+  .constructor-box-down-design-lab > :last-child {
+    order: 1;
+  }
+  .constructor-text-down-design-lab {
+    width: 180px;
+    font-size: 16px;
+    margin-top: 90px;
+  }
+
+  /*--------*/
+  .constructor-box-top-design-lab {
+    position: absolute;
+    top: 46px;
+    left: 50%;
+    display: flex;
+    gap: 38.77px;
+  }
+
+  .constructor-text-top-design-lab {
+    margin-top: 9px;
+    width: 162px;
+    font-size: 16px;
+  }
+  /*--------*/
+  .constructor-box-right-design-lab {
+    position: absolute;
+    right: 104px;
+    top: 310px;
+
+    display: flex;
+    flex-direction: row;
+
+    gap: 79.3px;
+  }
+  .constructor-box-right-design-lab > :first-child {
+    order: 2;
+  }
+
+  .constructor-box-right-design-lab > :last-child {
+    order: 1;
+  }
+  .constructor-text-right-design-lab {
+    width: 164px;
+    font-size: 16px;
+    margin-top: 4px;
+  }
+  /*--------*/
+  .constructor-icon-cursore-design-lab {
+    display: flex;
+    width: 64.889px;
+    height: 64.889px;
+    position: absolute;
+    top: 45%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+  }
+}
