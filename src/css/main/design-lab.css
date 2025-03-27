@@ -1,0 +1,64 @@
+.design-lab {
+  margin-top: 67px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px 13px;
+}
+.general-title-design-lab {
+  color: #262626;
+  font-family: 'Roboto Flex';
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+.box-stack-design-lab {
+}
+.title-stack-design-lab {
+}
+.box-stack-information-design-lab {
+}
+.stack-list-design-lab {
+}
+.text-stack-design-lab {
+}
+.title-text-stack-design-lab {
+}
+.text-description-stack-design-lab {
+}
+
+/*--------*/
+.constructor-design-lab {
+}
+/*--------*/
+.constructor-box-left-design-lab {
+}
+.constructor-text-left-design-lab {
+}
+.constructor-img-left-design-lab {
+}
+/*--------*/
+.constructor-box-down-design-lab {
+}
+.constructor-text-down-design-lab {
+}
+.constructor-img-down-design-lab {
+}
+/*--------*/
+.constructor-box-top-design-lab {
+}
+.constructor-img-top-design-lab {
+}
+.constructor-text-top-design-lab {
+}
+/*--------*/
+.constructor-box-right-design-lab {
+}
+.constructor-img-right-design-lab {
+}
+.constructor-text-right-design-lab {
+}
+/*--------*/
+.constructor-icon-cursore-design-lab {
+}
