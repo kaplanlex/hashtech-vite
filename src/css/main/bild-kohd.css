@@ -14,12 +14,12 @@
   margin-bottom: 8px;
 }
 .box-stack {
-  background-image: url('/img/bild-kohd/build-kohd-stack-mobile-bg.png');
-  background-size: 100% 334px;
+  background-image: url('../../img/bild-kohd/build-kohd-stack-mobile-bg.png');
+  background-size: 100% 240px;
   background-repeat: no-repeat;
   background-position: center;
   width: 100%;
-  min-height: 334px;
+  min-height: 240px;
   padding-right: 7px;
   padding-left: 20px;
   padding-top: 17px;
@@ -212,7 +212,7 @@
   }
 
   .box-stack {
-    background-image: url('/img/bild-kohd/build-kohd-stack-tablet-bg.png');
+    background-image: url('../../img/bild-kohd/build-kohd-stack-tablet-bg.png');
     background-size: 100% 173px;
     background-repeat: no-repeat;
     background-position: center;
@@ -347,7 +347,7 @@
     margin-bottom: 32px;
   }
   .box-stack {
-    background-image: url('/img/bild-kohd/build-kohd-stack-min-desktop-bg.png');
+    background-image: url('../../img/bild-kohd/build-kohd-stack-min-desktop-bg.png');
     background-size: 100% 190px;
     background-repeat: no-repeat;
     background-position: center;
@@ -521,7 +521,7 @@
     margin-bottom: 32px;
   }
   .box-stack {
-    background-image: url('/img/bild-kohd/build-kohd-stack-big-desktop-bg.png');
+    background-image: url('../../img/bild-kohd/build-kohd-stack-big-desktop-bg.png');
     background-size: 100% 189px;
     background-repeat: no-repeat;
     background-position: center;
