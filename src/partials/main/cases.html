@@ -1,12 +1,14 @@
 <section class="cases-main">
-  <h2 class="cases-title-main">
-    See our <span class="custom-cases-title-main">cases</span>
-  </h2>
-  <button class="cases-main-all-button" type="button">All</button>
+  <div class="header-cases-main">
+    <h2 class="cases-title-main">
+      See our <span class="custom-cases-title-main">cases</span>
+    </h2>
+    <button class="cases-main-all-button" type="button">All</button>
+  </div>
   <div class="swiper mySwiper">
     <div class="swiper-wrapper">
       <div class="swiper-slide">
-        <div class="card">
+        <div class="first-card-cases">
           <div class="card-content">
             <h3 class="cases-card-title">Yeet</h3>
             <p class="cases-text-card">
@@ -20,7 +22,7 @@
         </div>
       </div>
       <div class="swiper-slide">
-        <div class="card">
+        <div class="second-card-cases">
           <div class="card-content">
             <h3 class="cases-card-title">Not pixel</h3>
             <p class="cases-text-card">
@@ -31,7 +33,7 @@
         </div>
       </div>
       <div class="swiper-slide">
-        <div class="card">
+        <div class="third-card-cases">
           <div class="card-content">
             <h3 class="cases-card-title">Qappi</h3>
             <p class="cases-text-card">
@@ -43,7 +45,7 @@
         </div>
       </div>
       <div class="swiper-slide">
-        <div class="card">
+        <div class="fourth-card-cases">
           <div class="card-content">
             <h3 class="cases-card-title">Angry miner</h3>
             <p class="cases-text-card">
@@ -60,12 +62,16 @@
   </div>
 
   <div class="custom-nav">
-    <button class="custom-prev">
-      <svg><use href="/img/symbol.svg#"></use></svg>
+    <button class="swiper-button-prev">
+      <svg class="icon-cases-left">
+        <use href="/img/symbol.svg#icon-cases-left"></use>
+      </svg>
     </button>
 
-    <button class="custom-next">
-      <svg><use href="/img/symbol.svg#"></use></svg>
+    <button class="swiper-button-next">
+      <svg class="icon-cases-right">
+        <use href="/img/symbol.svg#icon-cases-right"></use>
+      </svg>
     </button>
   </div>
 </section>
