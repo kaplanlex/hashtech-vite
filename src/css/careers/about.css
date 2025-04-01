@@ -1,0 +1,129 @@
+.careers-about {
+  width: 100%;
+  margin-top: 0;
+  background-color: #252525;
+  padding-left: 21px;
+  padding-right: 31px;
+  padding-top: 44px;
+  padding-bottom: 77px;
+
+  display: flex;
+  flex-direction: column;
+}
+.about-title-box {
+  display: flex;
+  gap: 21px;
+  align-items: center;
+}
+.about-title {
+  color: #eeebe2;
+  font-family: 'Roboto Flex';
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 108px;
+}
+.title-svg {
+  width: 124px;
+  height: 26px;
+}
+.about-first-text {
+  color: #eeebe2;
+  font-family: 'Roboto Mono';
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px; /* 181.818% */
+  letter-spacing: -0.32px;
+  margin-bottom: 57px;
+}
+.about-second-text {
+  color: #eeebe2;
+  font-family: 'Roboto Mono';
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px; /* 181.818% */
+  letter-spacing: -0.32px;
+}
+@media (min-width: 769px) {
+  .careers-about {
+    margin-top: 0;
+    background-color: #252525;
+    padding-left: 35px;
+    padding-right: 37px;
+    padding-top: 71px;
+    padding-bottom: 135px;
+  }
+  .about-title-box {
+    margin-bottom: 37px;
+  }
+  .about-title {
+    color: #eeebe2;
+    font-family: 'Roboto Flex';
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 21px;
+  }
+  .title-svg {
+    width: 129px;
+    height: 27px;
+  }
+  .about-first-text {
+    font-size: 16px;
+    line-height: 25.6px;
+    margin-bottom: 57px;
+  }
+  .about-second-text {
+    font-size: 16px;
+    line-height: 25.6px;
+  }
+}
+@media (min-width: 1440px) {
+  .careers-about {
+    width: auto;
+    margin-top: 25px;
+    margin-left: 103px;
+    margin-right: 103px;
+    padding-left: 87px;
+    padding-right: 193px;
+    padding-top: 71px;
+    padding-bottom: 114px;
+  }
+  .about-title-box {
+    margin-bottom: 37px;
+  }
+  .about-title {
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 21px;
+  }
+  .title-svg {
+    width: 201px;
+    height: 42.139px;
+  }
+  .about-first-text {
+    font-size: 20px;
+    line-height: 25.6px;
+    margin-bottom: 36px;
+  }
+  .about-second-text {
+    font-size: 20px;
+    line-height: 25.6px;
+  }
+}
+@media (min-width: 2160px) {
+  .careers-about {
+    width: auto;
+    margin-top: 38px;
+    margin-left: 219px;
+    margin-right: 219px;
+
+    padding-left: 149px;
+    padding-right: 619px;
+    padding-top: 123px;
+    padding-bottom: 152px;
+  }
+}
