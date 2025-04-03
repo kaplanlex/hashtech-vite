@@ -1,0 +1,103 @@
+.section-innovation {
+  background-color: #080808;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding-top: 112px;
+  padding-left: 21px;
+  padding-right: 21px;
+  padding-bottom: 114px;
+  gap: 32px;
+}
+.title-innovation {
+  /* width: 293px; */
+  padding-right: 25px;
+
+  color: #eeebe2;
+  font-family: Inter;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 35px; /* 125% */
+}
+.pixel-title-innovation {
+  color: #85ad8a;
+  font-family: 'Pixelify Sans';
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 35px;
+}
+.text-innovation {
+  color: #eeebe2;
+  font-family: 'Roboto Mono';
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 19px; /* 135.714% */
+  letter-spacing: -0.36px;
+}
+@media (min-width: 769px) {
+  .section-innovation {
+    padding-top: 234px;
+    padding-left: 63px;
+    padding-right: 77px;
+    padding-bottom: 294px;
+    gap: 51px;
+  }
+  .title-innovation {
+    padding-right: 0;
+    font-size: 48px;
+    line-height: 64px; /* 125% */
+  }
+  .pixel-title-innovation {
+    font-size: 48px;
+    line-height: 65px;
+  }
+  .text-innovation {
+    font-size: 18px;
+    line-height: 27px; /* 135.714% */
+  }
+}
+@media (min-width: 1440px) {
+  .section-innovation {
+    padding-top: 131px;
+    padding-left: 191px;
+    padding-right: 206px;
+    padding-bottom: 199px;
+    gap: 40px;
+  }
+  .title-innovation {
+    font-size: 55px;
+    line-height: 68px; /* 125% */
+  }
+  .pixel-title-innovation {
+    font-size: 55px;
+    line-height: 68px;
+  }
+  .text-innovation {
+    font-size: 27px;
+    line-height: 27px; /* 135.714% */
+  }
+}
+@media (min-width: 2160px) {
+  .section-innovation {
+    padding-top: 172px;
+    padding-left: 360px;
+    padding-right: 675px;
+    padding-bottom: 46px;
+    gap: 43px;
+  }
+  .title-innovation {
+    font-size: 60px;
+    line-height: 68px; /* 125% */
+  }
+  .pixel-title-innovation {
+    font-size: 60px;
+    line-height: 68px;
+  }
+  .text-innovation {
+    font-size: 24px;
+    line-height: 27px; /* 135.714% */
+  }
+}
